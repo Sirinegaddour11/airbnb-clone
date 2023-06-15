@@ -17,7 +17,7 @@ const Home: NextPage = () => {
       </Head>
       <div>
         <ClientOnly>
-          <Modal actionLabel="submit" title="Hello World" isOpen />
+          <Modal actionLabel="su" title="Hello World" isOpen />
           <Navbar />
         </ClientOnly>
       </div>
